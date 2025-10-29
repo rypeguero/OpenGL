@@ -26,6 +26,10 @@ I followed an iterative design process: first prototyping basic geometry and the
 
 This modular and test-driven design approach is ideal for larger software projects. I now appreciate the importance of writing reusable rendering functions, designing scalable scene systems, and using shader uniforms for clean parameter control — all of which can be adapted to simulation tools, games, and visual interfaces.
 
+### 🖼️ Screenshot of 3D Scene
+
+![Living Room Scene](https://github.com/rypeguero/OpenGL/blob/main/Living%20Room%203D%20Scene.png?raw=true)
+
 ---
 
 ## 💻 Development Reflection
